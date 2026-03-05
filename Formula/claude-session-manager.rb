@@ -2,7 +2,7 @@ class ClaudeSessionManager < Formula
   desc "Floating GUI showing all active Claude Code sessions"
   homepage "https://github.com/MoodyMusicMan/homebrew-claude-session-manager"
   url "https://github.com/MoodyMusicMan/homebrew-claude-session-manager/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "PLACEHOLDER"
+  sha256 "f46c449c0f9227bf6415343c192070eecaa1dc71c6c24b19d51b9a953d547b67"
   license "MIT"
 
   depends_on "python@3.12"
